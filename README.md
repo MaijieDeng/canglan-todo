@@ -1,5 +1,7 @@
 # 苍岚笺
 
+一款仙侠风格的 Windows 桌面待办浮窗，支持悬停展开、拖动位置、多队列管理和完成归档。
+
 ## 方式一：下载 exe 直接运行
 
 1. 打开 [最新版下载页面](https://github.com/MaijieDeng/canglan-todo/releases/latest)。
