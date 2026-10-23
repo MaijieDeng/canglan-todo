@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+build/
+dist/
+*.spec
+preview*.png
+
+# Local configuration and runtime data
+.env
+.env.*
+!.env.example
+quests.json
+quests.backup.json
+quests.corrupt.*.json
+window.ini
+instance.lock
+startup-error.log
